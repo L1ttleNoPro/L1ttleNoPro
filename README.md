@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @L1ttleNoPro
 - 👀 I’m interested in Cryptography, Coding
-- 🌱 I’m currently learning Crypto
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Cyber security in UIT
 - ⚡ Fun fact: I'm handsome !!!
 
 <!---
